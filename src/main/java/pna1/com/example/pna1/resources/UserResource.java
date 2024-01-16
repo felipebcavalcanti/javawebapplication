@@ -7,6 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 import pna1.com.example.pna1.entities.User;
 
 /*Classe que vai me disponibilizar um recurso WEB para a classe USER*/
+/*classe feita para obter a Resposta da Entidade. no caso USER*/
 @RestController
 @RequestMapping(value = "/users")
 public class UserResource {
