@@ -2,7 +2,6 @@ package pna1.com.example.pna1.entities;
 
 
 import com.fasterxml.jackson.annotation.JsonFormat;
-import com.fasterxml.jackson.annotation.JsonIgnore;
 import jakarta.persistence.*;
 import pna1.com.example.pna1.entities.enums.OrderStatus;
 
